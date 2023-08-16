@@ -1,8 +1,12 @@
 # aidtech_Create_a_password_generator
 Welcome to the official repository for my Java intern task submission at InfoAid Tech! In this repository, you'll find the code and documentation for the task assigned to me during my internship as a Java developer.
+
 Task Description:
+
 The task assigned for this internship involved creating a Java application to demonstrate proficiency in key concepts such as object-oriented programming, data structures, and algorithm implementation. The goal was to develop a robust and efficient solution that showcases my Java programming skills.
+
 Task instruction :
+
 Steps to create the project:
 
 Define the length of the password: Decide on the length of the password that you want to generate.
